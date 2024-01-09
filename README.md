@@ -1,5 +1,4 @@
-# movies-1000
-Exploratory Data Analysis on Hollywood movies
+# **Exploratory Data Analysis on Hollywood movies**
 
 This is the repository that contains my analysis of the 1000 Hollywood movies.
 The python notebook introduces the problem statement and runs throgh different scenarios of analyzing the data to generate insights.
